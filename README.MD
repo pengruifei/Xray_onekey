@@ -6,6 +6,8 @@
 
 > Thanks for non-commercial open source development authorization by JetBrains!
 
+## 由于 Nginx 前置导致的嵌套 tls 可能会出现连接阻断 目前更推荐使用 reality ，建议移步到以下地址
+https://github.com/wulabing/xray_docker
 
 ### Telegram 群组
 * Telegram 交流群：https://t.me/wulabing_v2ray 
@@ -25,7 +27,7 @@ https://github.com/XTLS/Xray-core/issues/91
 
 支持配置方式
 
-VLESS + TCP + TLS + Nginx + WebSocket
+- VLESS + TCP + TLS + Nginx + WebSocket
 
 ```
 wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/nginx_forward/install.sh" && chmod +x install.sh && bash install.sh
@@ -35,9 +37,9 @@ wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.c
 
 支持配置方式
 
-VLESS + TCP + XTLS / TLS  + Nginx
+- VLESS + TCP + XTLS / TLS  + Nginx
 
-VLESS + TCP + XTLS / TLS  + Nginx 及 VLESS + TCP + TLS + Nginx + WebSocket 回落并存模式
+- VLESS + TCP + XTLS / TLS  + Nginx 及 VLESS + TCP + TLS + Nginx + WebSocket 回落并存模式
 
 ```
 wget -N --no-check-certificate -q -O install.sh "https://raw.githubusercontent.com/wulabing/Xray_onekey/main/install.sh" && chmod +x install.sh && bash install.sh
@@ -88,6 +90,18 @@ https://bandwagonhost.com/aff.php?aff=63939
 您可以使用我的 JustMySocks AFF 购买搬瓦工提供的代理
 
 https://justmysocks.net/members/aff.php?aff=17621
+
+您可以使用我的 DMIT AFF 购买 VPS
+
+https://www.dmit.io/aff.php?aff=3957
+
+您可以使用我的 Vultr AFF 创建新的 Vultr 账号并使用
+
+https://www.vultr.com/?ref=6881279
+
+您可以通过 USDT 支持我，感谢您的支持
+TRC20:TFannfnajNGYsMTuVDcXfZXXPbcaxAEffa
+
 
 ## Stargazers over time
 
